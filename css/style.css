@@ -91,3 +91,18 @@ header.masthead h1 {
     padding: 7rem;
   }
 }
+
+/* Testimonials */
+.testimonials {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.testimonials .testimonials-item {
+  max-width: 18rem;
+}
+
+.testimonials .testimonials-item img {
+  max-width: 12rem;
+  box-shadow: 0px 5px 5px 0px #adb5bd;
+}
